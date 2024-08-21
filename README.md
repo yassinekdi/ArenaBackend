@@ -1,2 +1,2 @@
 # ArenaBackend
-Arena backend with Django
+Arena backend with Django Framework
